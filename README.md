@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityaaa1505
-- 👀 I’m interested in Web Development, DSA, and other extra curicular activities such as sports
-- 🌱 I’m currently pursuing CSE at NIT-T,other than that, I am also learning with Web Developement and DSA 
+- 🌱 I’m currently pursuing Computer Science Engineering at National Institute of Technology, Tiruchirapalli.
+- 👀 I’m interested and actively learning Web Development and Data Structures and Algorithms
 - 📫 How to reach me - aditya.agarawal1505@gmail.com
 - 😄 Pronouns: He/Him
 
