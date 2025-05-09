@@ -1,9 +1,45 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Aditya 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 Computer Science & Engineering student at NIT Trichy  
+💡 Passionate about building things with code, exploring algorithms, and applying AI  
+🛠️ Tech Stack: C++, Python, JavaScript, React, Node.js, MongoDB, Git  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/adityaaa1505) | [Email](mailto:your.email@example.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+- 🎧 **[DTunes](https://github.com/Adityaaa1505/DTunes-Delta-Task3)** – A responsive music player built with modern JavaScript features.
+- 💬 **[ChatApp](https://github.com/Adityaaa1505/ChatApp-Spider-Task1)** – A real-time chat app with Socket.IO and Node.js.
+- 🎮 **[Last Stand Game](https://github.com/Adityaaa1505/LastStand-Delta-Task2)** – A survival-based web game created using canvas and JS.
+- 🔫 **[Ricochet Rumble](https://github.com/Adityaaa1505/RicochetRumble-Delta-Task1)** – A fast-paced game built for the Delta club tasks.
+
+---
+
+## 📈 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityaaa1505&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaa1505&layout=compact&theme=github_dark)
+
+---
+
+## 🧠 Currently Learning
+- Deep learning and AI applications in real-world systems
+- System design and full-stack development
+- Building strong foundations in competitive programming
+
+---
+
+## 🌱 Fun Fact
+I enjoy turning complex problems into simple code — and playing around with UI/UX design when I get the chance.
+
