@@ -27,6 +27,8 @@
 |--------|-------------|------|
 | [**DTunes**](https://github.com/Adityaaa1505/DTunes-Delta-Task3) | A slick music player with playlist controls and dynamic UI. | MERN, Redux |
 | [**ChatApp**](https://github.com/Adityaaa1505/ChatApp-Spider-Task1) | Real-time messaging app using WebSockets. | MERN, Socket.IO |
+| [**Portfolio**](https://github.com/Adityaaa1505/portfolio) | My portfolio website | ReactJS |
+| [**Aurigo Elevate**](https://github.com/Adityaaa1505/Aurigo-Elevate) | Hackathon Project | MERN, Google APIs, OLLama |
 | [**Last Stand Game**](https://github.com/Adityaaa1505/LastStand-Delta-Task2) | Browser-based game built with canvas and logic. | HTML, CSS, JS, Canvas API |
 | [**Ricochet Rumble**](https://github.com/Adityaaa1505/RicochetRumble-Delta-Task1) | Mind boggling shooting game with animations. | HTML, CSS, JS |
 
@@ -35,9 +37,9 @@
 ---
 
 ## 🔭 Currently Exploring
-- Deep learning & LLMs
-- Scalable backend systems
-- System design + Devops fundamentals
+- ML and Deep Learning
+- Using ML in Web Apps
+- DevOps
 
 ---
 
